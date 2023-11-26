@@ -53,7 +53,7 @@ The project follows the following file structure:
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone Akshaykumar2004/java-electricity-bill-system
     ```
 
 2. Open the project in your preferred Java IDE.
